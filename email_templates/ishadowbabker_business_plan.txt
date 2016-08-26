@@ -1,0 +1,90 @@
+
+1. Why people need to borrow money
+2. What are the challenges people face when trying to borrow money
+3. Size of shadow banking business in kenya and worldwide
+4. How does ishadowbanker solves these challenges
+5. How does ishadowbanker make money.
+6. Revenue projection
+7. Project timeline
+
+The Need For Credit
+Loans and credit are a cornerstone of many people’s personal finances. The top reasons for loan requests
+
+    Car repairs
+    Household/utility bills
+    Clothes
+    Entertainment
+    Children
+    Shopping
+    Health
+    Buisness
+
+Challenges In Securing Financing
+The following are some of the challenges faced by people when trying to get credit from traditional financial intermediaries (banks)
+1. Need to have a bank account at the bank where one is seeking the loan.
+2. The need for a better athan average  credit rating
+3. The rigourous and lengthy screen and approval process.
+
+Shadow Banking
+Due to the above mentioned challenges, an increasing amount of people are force to seek financing from the non regulated financial intermediaries (the shadowbanking system). The shadow banking system can be described as credit intermediation involving entities and activities outside of the regular banking system. Intermediating credit through non-bank channels can have important advantages and contributes to the financing of the real economy. The global shadow banking system was estimated to be worth 
+
+Challenges with Shadow Banking
+1. Excessively high interest rates
+2. Little or no room to negotiate better payment rates and terms
+
+IshadowBanker
+IshadowBanker is peer to peer lending platform that works by matching individual lenders and borrowers. Potential borrowers post a loan application and lenders place competitive loan offer bids. The borrower the selects the bid with the best rates and terms.
+
+
+Business model
+
+IshadowBanker has a transaction-based business model, in which revenue is colledted by taking a fee on customers transactions. Borrowers who receive a loan pay an origination fee of 1.00% to 5.00%  depending on the borrower's IshadowBanker Rating, while lenders pay a 1% annual servicing fee.
+
+
+
+
+
+
+
+
+
+
+
+
+
+STEPS
+-------------
+1. Create ad accounts
+2. Sign up for machine accounts
+3. Set up machines
+4. Create ad placements
+
+- liliannaserian 
+- certifiedacademicessays
+- customacademicessays
+- blitzdocument
+
+
+
+- Implement signin and signout functionality --
+- Implement page controller functionality --
+- Adapt entities to application requirements
+- Fix check boxes, dropdowns and radio
+- Implement profile picture
+- Fix email templates
+- Add withdraw cash to account menu --
+- Add fund account menu --
+- Implement bid notification system
+- Implement application bid feed
+- Implement accept bid functionality
+- Implement dashboard
+
+Emails
+---------------
+- Application created
+- Bid created
+- Bid accepted
+- Application sealed
+
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/blitzdocument1/public_html/ishadowbanker.com/wp-content/themes/premium-child/page-templates/content-page.php:3) in /home/blitzdocument1/public_html/ishadowbanker.com/wp-includes/pluggable.php on line 957
